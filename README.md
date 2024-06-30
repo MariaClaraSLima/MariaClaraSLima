@@ -5,6 +5,7 @@
 
 <div>
   <a href="https://github.com/MariaClaraSLima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaClaraSLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraSLima&layout=donut&lang_count16&theme=dracula"/>
 </div>
 
